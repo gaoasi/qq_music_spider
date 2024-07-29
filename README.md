@@ -9,16 +9,22 @@
 # 使用：
 ## 获取cookie
 1、使用账号登陆qq音乐
+
 2、鼠标右键，点击‘开发者工具’
 <img width="1909" alt="image" src="https://github.com/user-attachments/assets/b62033ec-cdb8-49b0-9b16-4ed497b7ed7a">
+
 3、将qqmusic_search.py内的cookie=''中的''替换成上面第二步复制的cookie值即可
+
 4、运行python qqmusic_search.py
 ## 原理
 1、python、javascript
+
 2、用到js中的webpack，补环境
+
 3、本项目只适用于搜索歌名（搜索歌手未测）
-# 有问题可以加微信交流：
+
+### 有问题可以加微信交流：
 
 ![1421722250492_ pic](https://github.com/user-attachments/assets/7cf0c113-0d65-4a14-a730-2a823f008dba)
-# 如果项目帮助到了你，恰好您又非常的慷慨，不妨扫个码打赏一下，做我的榜一大哥
+### 如果项目帮助到了你，恰好您又非常的慷慨，不妨扫个码打赏一下，做我的榜一大哥
 ![1411722250486_ pic](https://github.com/user-attachments/assets/9389d6ab-b2e0-422e-8d80-4e4417b8776d)
