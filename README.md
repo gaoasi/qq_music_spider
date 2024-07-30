@@ -26,5 +26,3 @@
 ### 有问题可以加微信交流：
 
 ![1421722250492_ pic](https://github.com/user-attachments/assets/7cf0c113-0d65-4a14-a730-2a823f008dba)
-### 如果项目帮助到了你，恰好您又非常的慷慨，不妨扫个码打赏一下，做我的榜一大哥
-![1411722250486_ pic](https://github.com/user-attachments/assets/9389d6ab-b2e0-422e-8d80-4e4417b8776d)
